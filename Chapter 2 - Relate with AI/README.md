@@ -9,7 +9,7 @@ The fusion of animatronics with artificial intelligence results in androids, as 
 - ## Anki Cozmo
     Cozmo is a skilled little person with his very own brain. He's a genuine robot like you've just found in motion pictures, with a unique character that advances the more you hang out. He'll prod you to play and keep you continually astonished.
 
-    <center><img src="..media/videos/anki.gif">
+    <center><img src="../media/videos/anki.gif">
     </center>
 Check the video [here](https://drive.google.com/file/d/1tfNKqc50991zph8qnc3SzLnWS6MJGhAU/view?usp=sharing)
 
