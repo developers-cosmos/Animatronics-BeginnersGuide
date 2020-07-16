@@ -1,4 +1,4 @@
-# ANIMATRONICS – How Can Ww Relate It With Artifical Intelligence
+# ANIMATRONICS – How Can We Relate It With Artifical Intelligence
 <center><img src="media/videos/Media1.gif" height="300" width ="300"></center><br>
 Animatronics is a cross between animation and electronics. Basically, an animatronic is a mechanized puppet. It may be pre-programmed or remotely controlled. The animations may perform movements, or it may be incredibly versatile. It is the use of cable-pulled devices or actuators to animate a replica of a human or an animal or bring lifelike characteristics to an otherwise inanimate object. Animatronics alludes to the utilization of automated gadgets to copy a human or a creature or bring exact qualities to an in any case lifeless object. Animatronic manifestations incorporate creatures (counting dinosaurs), plants and even legendary animals. A robot designed to be a convincing imitation of a human is more specifically labelled as an android Present-day animatronics have discovered across the board applications in film uncommon impacts and amusement stops and have, since their origin, been fundamentally utilized as a display of delight.
 
